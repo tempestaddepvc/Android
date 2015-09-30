@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PR004- Las estaciones</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="meGusta">Me gusta</string>
+    <string name="laPrimavera">la primavera</string>
+    <string name="elVerano">el Verano</string>
+    <string name="elOtonio">el Otoño</string>
+    <string name="elInvierno">el Invierno</string>
+    <string name="verano">Verano</string>
+    <string name="primavera">Primavera</string>
+    <string name="otonio">Otoño</string>
+    <string name="invierno">Invierno</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PR002</string>
+
+    <string name="hello_world">Bonjour</string>
+    <string name="action_settings">Les options</string>
+    <string name="btn1">caca</string>
+    <string name="btn2">culo</string>
+    <string name="text1">pedo</string>
+    <string name="text2">pis</string>
+    <string name="senior">Baguette</string>
+</resources>

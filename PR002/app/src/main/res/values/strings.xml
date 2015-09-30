@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PR002</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn1">Nombre Apellido</string>
+    <string name="btn2">Apellido Nombre</string>
+    <string name="text1">Nombre</string>
+    <string name="text2">Apellido</string>
+    <string name="senior">"Señor "</string>
+</resources>
