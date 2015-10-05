@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PR007 - ScrollView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="panelDeMensajes">PANEL DE MENSAJES</string>
+</resources>
