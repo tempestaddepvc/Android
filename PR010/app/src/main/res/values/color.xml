@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="topleft">#a4629b</color>
+    <color name="midleft">#60a41c</color>
+    <color name="topright">#291ed0</color>
+</resources>
