@@ -6,4 +6,5 @@
     <string name="nombre">Nombre</string>
     <string name="phone">Teléfono</string>
     <string name="email">E-mail</string>
+    <string name="snack">Snack</string>
 </resources>
