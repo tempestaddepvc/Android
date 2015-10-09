@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        initViews();
     }
     protected void initViews(){
         final EditText editText=(EditText) findViewById(R.id.txtSuspensons);
@@ -23,9 +24,10 @@ public class MainActivity extends AppCompatActivity {
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
-                Toast.makeText(getApplicationContext(), getResources().getQuantityString(
-                        R.plurals.num_suspensos,Integer.getInteger(editText.getText().toString()) ), Toast.LENGTH_LONG).show();
+                int suspensos= Integer.getInteger(editText.getText().toString());
+                String mensaje= String.format(getResources().getQuantityString(
+                        R.plurals.num_suspensos, suspensos), suspensos);
+                Toast.makeText(getApplicationContext(),"Hola", Toast.LENGTH_LONG).show();
             }
         });
 
