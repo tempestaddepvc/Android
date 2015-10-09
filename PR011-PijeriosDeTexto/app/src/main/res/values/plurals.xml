@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_suspensos">
+        <item quantity="zero">No hay alumnos suspensos</item>
+        <item quantity="one">Hay suspendido un alumno</item>
+        <item quantity="other">Hay %1$d suspensos</item>
+    </plurals>
+
+</resources>
