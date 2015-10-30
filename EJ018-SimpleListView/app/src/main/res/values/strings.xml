@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EJ018- Simple ListView</string>
+    <string name="nombre">Nombre</string>
+    <string name="agregar">Agregar</string>
+    <string name="listado_alumnos">Listado de alumnos</string>
+    <string name="no_hay_alumnos">No hay alumnos</string>
+    <string name="aniadir">Añadir</string>
+    <string name="hello_world">Hello World</string>
+</resources>
