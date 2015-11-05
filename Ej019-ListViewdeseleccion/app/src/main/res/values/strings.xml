@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ej019-ListView de seleccion</string>
+    <string name="pregunta">¿De qué color es el caballo blanco de santiago?</string>
+    <string name="contestar">Contestar</string>
+</resources>

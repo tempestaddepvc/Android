@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/suspender"
+        android:id="@+id/mnuSuspender"></item>
+    <item
+        android:title="@string/aprobar"
+        android:id="@+id/mnuAprobar"></item>
+</menu>
